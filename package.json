@@ -1,5 +1,5 @@
 {
-  "name": "strapi",
+  "name": "miltoncrm-strapi",
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application",
@@ -12,10 +12,10 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "@strapi/strapi": "4.25.8",
-    "@strapi/plugin-users-permissions": "4.25.8",
-    "@strapi/plugin-i18n": "4.25.8",
-    "@strapi/plugin-cloud": "4.25.8",
+    "@strapi/strapi": "4.25.11",
+    "@strapi/plugin-users-permissions": "4.25.11",
+    "@strapi/plugin-i18n": "4.25.11",
+    "@strapi/plugin-cloud": "4.25.11",
     "better-sqlite3": "8.6.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
@@ -26,7 +26,7 @@
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "557b2847-6a37-46f0-a243-3c7da8c359f9"
+    "uuid": "99a16182-6a6d-460d-87d2-9afc2c7d6012"
   },
   "engines": {
     "node": ">=18.0.0 <=20.x.x",
